@@ -5,7 +5,7 @@ export const Form = styled.form`
   display: grid;
   place-content: center;
   grid-gap: 0.5rem;
-  background-color: #e9f2fd;
+  background-color: #3d3d3d;
   padding: 1rem;
 `;
 
